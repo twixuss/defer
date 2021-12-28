@@ -2,6 +2,7 @@
 
 ## Example
 ```cpp
+#include <stdio.h>
 #include <defer.hpp>
 int main() {
     char const *hello = "Hello";
