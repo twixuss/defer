@@ -1,4 +1,4 @@
-# Single header defer statement implementation for c++14 or newer
+# Single header defer statement implementation for c++14 or newer with no dependencies (including standard library)
 
 ## Example
 ```cpp
